@@ -8,7 +8,7 @@ In this project, I answered the following key questions:
 2. How does the geographical location of grocery stores affect product prices, and how does the store brand classification (budget, mid-range, or luxury) influence these variations?
 3. Is there a correlation between price variation by geographical location and rental prices in the corresponding neighborhoods?
 4. Can we enhance our analysis by incorporating a spatially correlated distribution over location multipliers to reveal underlying patterns in price fluctuations?
-## Data Collection
+## Data
 To conduct the analysis, I collected price data for ten essential grocery items from various supermarkets across different countries. Each product has three recorded prices, accounting for brand variations. Additionally, I recorded the quantity of each product to standardize the prices.
 
 To establish correlations, we sourced rental price data for the neighborhoods where these supermarkets are located.
